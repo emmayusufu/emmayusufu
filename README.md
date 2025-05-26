@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @emmayusufu
-- 👀 I’m interested in android development and backend development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Emmanuel Yusufu Kimaswa
+- 👀 I’m interested in backend engineering and the cloud
+- 💞️ I’m looking to collaborate on opensource projects
+- 📫 How to reach me kimaswaemma36@gmail.com
 
 <!---
 emmayusufu/emmayusufu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
